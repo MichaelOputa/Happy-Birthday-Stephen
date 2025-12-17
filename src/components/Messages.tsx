@@ -26,7 +26,7 @@ export default function Messages() {
       id: 4,
       author: 'Jessica',
       relationship: 'Sister',
-      message: 'Happy Birthday to my dear brother 💙🎉. From your sister’s heart, I just want you to know how proud I am of the man you are becoming. You’ve always been a protector, my biggest supporter, and someone I can count on without hesitation. Your strength, kindness, and sense of humor make life brighter for everyone around you, especially our family. May this new year bring you bigger wins, deeper happiness, good health, and endless reasons to laugh just like you always do. Never stop being authentic, fearless, and full of life. The best chapters are still ahead of you. Cheers to you, my brother today and always. 🥂✨'
+      message: 'Happy Birthday to my dear brother 💙🎉. Meeting and knowing you is one of the best things God made to happen for us, your family. From the bottom of my heart, I just want you to know how proud I am of the man you are becoming. You’ve always been a protector, my biggest supporter, and someone I can count on without hesitation. Your strength, kindness, and sense of humor makes life brighter for everyone around you, especially our family. May this new year bring you bigger wins, deeper happiness, good health, and endless reasons to laugh just like you always do. Never stop being authentic, fearless, and full of life. The best chapters are still ahead of you. Cheers to you, my brother today and always. I love you so much🥂✨. Once again, I celebrate you Stephen "Oputa" Umezurike.'
     },
     {
       id: 5,
